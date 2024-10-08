@@ -51,9 +51,7 @@
 		996BD0932CB4CCD0007F6C57 /* PBXConflict */ = {
 			isa = PBXGroup;
 			children = (
-				996BD0942CB4CCD0007F6C57 /* PBXConflictApp.swift */,
-				996BD0962CB4CCD0007F6C57 /* ContentView.swift */,
-				996BD0982CB4CCD1007F6C57 /* Assets.xcassets */,
+				996BD0A22CB4D03F007F6C57 /* Den */,
 				996BD09A2CB4CCD1007F6C57 /* Preview Content */,
 			);
 			path = PBXConflict;
@@ -65,6 +63,16 @@
 				996BD09B2CB4CCD1007F6C57 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		996BD0A22CB4D03F007F6C57 /* Den */ = {
+			isa = PBXGroup;
+			children = (
+				996BD0942CB4CCD0007F6C57 /* PBXConflictApp.swift */,
+				996BD0962CB4CCD0007F6C57 /* ContentView.swift */,
+				996BD0982CB4CCD1007F6C57 /* Assets.xcassets */,
+			);
+			path = Den;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
